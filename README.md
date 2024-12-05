@@ -4,7 +4,7 @@ These repos contain stuff related to the game [ΔV: Rings of Saturn by Kodera So
 
 Currently Available:
 
-- [DV Annotate](hhttps://github.com/NimrodXMods/dv-annotate) - a utility for collecting and packaging up diagnostic information for QA and bug reporting.
+- [DV Annotate](https://github.com/NimrodXMods/dv-annotate) - a utility for collecting and packaging up diagnostic information for QA and bug reporting.
 
 Planned:
 
