@@ -1,16 +1,14 @@
-## Hi there 👋
+# About These Repos
 
-<!--
-**NimrodXMods/NimrodXMods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+These repos contain stuff related to the game [ΔV: Rings of Saturn by Kodera Software](https://games.kodera.pl/dv/).
 
-Here are some ideas to get you started:
+Currently Available:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [DV Annotate](../dv-annotate) - a utility for collecting and packaging up diagnostic information for QA and bug reporting.
+
+Planned:
+
+- A "wizard" type GUI script for modding environment setup.
+- Some actual game mods, like a remass-only MPU and probably other stuff once I get a better handle on modding the game.
+
+<!--- This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
